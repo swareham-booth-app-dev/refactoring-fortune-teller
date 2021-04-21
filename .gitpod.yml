@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-refactoring-fortune-teller
+image: jelaniwoods/appdev2021-refactoring-fortune-teller@sha256:754ba1af27f377de789bfeb2b021e9a1af19766dfe17dc0d9848bcac168253d7
 
 tasks:
   - init: bin/setup
